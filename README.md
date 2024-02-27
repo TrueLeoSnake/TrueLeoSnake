@@ -6,7 +6,7 @@
 
 <h2>📄 Certifications</h2>
 
-- [Google Cybersecurity Professional Certificate] (https://www.coursera.org/account/accomplishments/professional-cert/6FULDACBGW6W)
+- [Google Cybersecurity Profession Certificate](https://github.com/TrueLeoSnake/URL)
 
 <h2>📺 Popular YouTube Videos</h2>
 
